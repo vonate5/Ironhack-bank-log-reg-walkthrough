@@ -7,7 +7,6 @@
 - Data
 - Tools
 - Visualization
-- Key Take Aways
 
 ## Project Brief
 **Scenario:** in this project we will attempt to predict the loan status using a database bank.
@@ -25,6 +24,8 @@ Once in JupyterNotebook we did the following steps:
 - Split data into num and cat for pre processing
 - Modelling and evaluating the modelling
 
+You can see all the data coding by clicking [ 👨🏻‍💻 ](https://github.com/vonate5/Ironhack-bank-log-reg-walkthrough/blob/main/code/bank_logistic_regression_walkthrough_live.ipynb)
+
 ## Tools
 ![](images/tools.png)
 
@@ -34,12 +35,7 @@ We use the following tools to get the final result:
 - Tableau: visualization of the data results
 
 ## Visualization
-![](images/Screenshot7.png) ![](images/Screenshot8.png)
-![](images/Screenshot4.png)
-
-
-
-
+You can see all the data visualizacion if you click the camera [📸](https://github.com/vonate5/Ironhack-bank-log-reg-walkthrough/tree/main/images)
 
 
 

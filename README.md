@@ -1,3 +1,3 @@
 # Bank logistic regression walkthrough 💵 💶 
-Class Project Bank Logistic Regression Walkthrough Live
+## Class Project Bank Logistic Regression Walkthrough Live
 

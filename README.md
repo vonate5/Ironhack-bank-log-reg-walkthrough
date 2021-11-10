@@ -27,7 +27,7 @@ Once in JupyterNotebook we did the following steps:
 You can see all the data coding by clicking [ 👨🏻‍💻 ](https://github.com/vonate5/Ironhack-bank-log-reg-walkthrough/blob/main/code/bank_logistic_regression_walkthrough_live.ipynb)
  
 ## Tools
-![](images/tools.png)
+![](images/Image10.png)
 
 We use the following tools to get the final result:
 - MySQL: started with the independent task of completing the SQL queries

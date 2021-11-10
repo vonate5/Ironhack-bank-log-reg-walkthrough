@@ -25,7 +25,7 @@ Once in JupyterNotebook we did the following steps:
 - Modelling and evaluating the modelling
 
 You can see all the data coding by clicking [ 👨🏻‍💻 ](https://github.com/vonate5/Ironhack-bank-log-reg-walkthrough/blob/main/code/bank_logistic_regression_walkthrough_live.ipynb)
-
+ 
 ## Tools
 ![](images/tools.png)
 

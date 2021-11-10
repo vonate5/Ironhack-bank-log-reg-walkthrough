@@ -38,7 +38,6 @@ We use the following tools to get the final result:
 You can see all the data visualizacion if you click the camera [📸](https://github.com/vonate5/Ironhack-bank-log-reg-walkthrough/tree/main/images)
 
 
-
 ### Thank you for reading!
 If you have any questions, please reach out to us.
 

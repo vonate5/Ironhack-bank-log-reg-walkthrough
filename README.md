@@ -1,2 +1,3 @@
-# Ironhack-bank-log-reg-walkthrough
-Class Project Bank Logistic Regression Walkthrough Live
+# Bank logistic regression walkthrough 💵 💶 
+## Class Project Bank Logistic Regression Walkthrough Live
+

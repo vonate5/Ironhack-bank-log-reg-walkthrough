@@ -1,6 +1,16 @@
 # Bank logistic regression walkthrough 💵 💶 
 ## Class Project Bank Logistic Regression Walkthrough Live
-![](images/Screenshot%20bank.png)
+![](images/Screenshot2bank.png)
+
+### Table of Content
+- Project Brief
+- Data
+- Process & Tools
+- Visualization
+- Key Take Aways
+
+## Project Brief
+
 
 
 
